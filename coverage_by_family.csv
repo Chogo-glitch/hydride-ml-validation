@@ -1,0 +1,15 @@
+family,recalibration,n,coverage95
+A2B,random,10,0.8
+A2B,grouped,10,0.8
+AB,random,33,0.9090909090909091
+AB,grouped,33,0.9393939393939394
+AB2,random,119,0.8907563025210085
+AB2,grouped,119,0.9159663865546218
+AB5,random,106,1.0
+AB5,grouped,106,1.0
+MIC,random,52,0.9230769230769231
+MIC,grouped,52,0.9807692307692307
+Mg,random,32,0.875
+Mg,grouped,32,0.875
+SS,random,60,1.0
+SS,grouped,60,1.0
